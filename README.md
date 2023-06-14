@@ -1,5 +1,5 @@
 # Holiday Planner 
-The ‘holiday.py’ program is designed to help calculate the cost of a holiday by considering various factors such as hotel stay, flight expenses, and car rental costs. It provides four functions:
+The `holiday.py` program is designed to help calculate the cost of a holiday by considering various factors such as hotel stay, flight expenses, and car rental costs. It provides four functions:
 
 1. hotel_cost(nights): Calculates the total cost for hotel stay based on the number of nights.
 
@@ -10,12 +10,9 @@ The ‘holiday.py’ program is designed to help calculate the cost of a holiday
 4. holiday_cost(nights, city, days): Combines the above functions to calculate the overall total cost for the holiday.
 
 ## Usage
-1. Clone the repository to your local machine or download the ‘holiday.py’ file directly.
-
+1. Clone the repository to your local machine or download the `holiday.py` file directly.
 2. Open the file in a Python editor or IDE of your choice.
-
-3. Call the ‘holiday_cost’ function with the necessary arguments to calculate the total cost of your holiday. You can modify the function calls and arguments to customize the parameters as per your requirements.
-
+3. Call the 'holiday_cost’ function with the necessary arguments to calculate the total cost of your holiday. You can modify the function calls and arguments to customize the parameters as per your requirements.
 4. Run the program. The output should display all the details about your holiday in a meaningful way.
 
 ## Functions
